@@ -9,7 +9,7 @@ Markdown usa caracteres de puntuación comunes. Por ejemplo: si rodeas con aster
 
 Un detalle: puedes escribir contenido y transformarlo en HTML pero Markdown no añadirá las etiquetas de estructura de un documento HTML (Ej: `<!document type>`, `<body>`, etc.). Tu tendrás que hacerlo en el HTML.
 
-## Ayuda a reporteros a escribir velozmente y facilita la colaboración 
+## Ayuda a reporteros a escribir velozmente y facilita la colaboración
 
 Muchas salas de redacción y periodistas usan Markdown para escribir sus contenidos, especialmente si pasan por un proceso de edición y de producción digital colectiva que incluye a otros reporteros, diseñadores y programadores.
 
@@ -19,7 +19,7 @@ Es una de las herramientas que decenas de operaciones periodisticas digitales ya
 
 Reporteros en NPR y ProPublica usan Markdown como parte de su flujo de trabajo para producir y manejar los textos de sus artículos y reportajes. [Vox Media adquirió Editoria.ly](http://stet.editorially.com/articles/editorially-joins-vox-media/) (una startup que redefinió la experiencia de escritura, control de versiones y colaboración editorial, mediante el uso de Markdown entre otros de sus grands caracterñisticas), para potenciar su, de por sí, innovadora tecnología de publicación. Plataformas y startups como Stack Overflow, Carto, Codeacademy, para nombrar algunas, han [adoptado Markdown como su herramienta de formateo de contenido](https://carto.com/blog/why-we-use-markdow).
 
-¿Por qué tanta vaina con Markdown? Bueno, pues porque es tan fácil de aprender su sintaxis que es a prueba de periodistas. Permite escribir de modo muy rápido sin preocuparse del interlineado o los espacios entre párrafos o los estilos tipográficos y tamaños de letra o lo que sea que en un documento Word normalmente haces haciendo click en las opciones del menú del programa, para que tu texto se vea lindo. Acá no. Dos cucharadas y a la papa, como dicen los antiguos en Chile. 
+¿Por qué tanta vaina con Markdown? Bueno, pues porque es tan fácil de aprender su sintaxis que es a prueba de periodistas. Permite escribir de modo muy rápido sin preocuparse del interlineado o los espacios entre párrafos o los estilos tipográficos y tamaños de letra o lo que sea que en un documento Word normalmente haces haciendo click en las opciones del menú del programa, para que tu texto se vea lindo. Acá no. Dos cucharadas y a la papa, como dicen los antiguos en Chile.
 
 ## Aprende en cinco minutos
 
@@ -49,7 +49,7 @@ Bloque de código con sintaxis resaltada
 ***Itálica & negritas juntas***
 `Código`
 
-Línea horizontal 
+Línea horizontal
 *******
 
 > Cita o bloque de cita
@@ -79,12 +79,12 @@ Preparé una lista corta de editores favoritos para escritorio y para trabajo en
 1. [Stackedit](https://stackedit.io): Editor en línea gratuito, permite sincronizar y guardar documentos en Google Drive y Dropbox, y compartirlos. Una buena introducción a Markdown.
 2. [IA Writer](https://ia.net/writer/): Aplicacion para escritorio para computadores Mac (cuesta $3,99). Simple, diseño limpio, incluye un set de caractersticas como "modo de escritura concentrado", plantillas, corrector ortográfico y sincronización con Dropbox e iCloud. Soy parcial: es el editor que uso a diario.
 3. [Atom](www.atom.io): De codigo abierto, gratuito. Es un editor de texto para código pero incluye una opción para ver el documento con estilos aplicados en una ventana paralela a la que usas para escribir. Luego de instalar Atom, debes ir a la opción del menú: “Packages” y elegir “Markdown preview”: “Toggle preview”. Cómo es desarrollado por Github incluye muchas características construidas para facilitar la conexión y trabajo con tu repositorio en Github. Ha sido criticado por problemas de velocidad pero ultimamente pareciera andar muchísmo mejor.
-4. [MacDown](http://macdown.uranusjr.com/) (Mac): De código abierto y gratuito. Aplicación de escritorio. Tiene muchos usuarios. 
+4. [MacDown](http://macdown.uranusjr.com/) (Mac): De código abierto y gratuito. Aplicación de escritorio. Tiene muchos usuarios.
 5. [Prose.io](http://prose.io/): Editor en línea, de código abierto y gratuito. Desarrollado para “administrar contenido en Github”. Prose.io fue desarrollado por Development Seed, compañía que decidió hacerlo para sus propios proyectos "libres de CMS". Atributos: “Úsalo para crear, editar, borrar archivos y guardar cambios directamente en Github”. Utilizado por periodistas familiarizados con Github y Jekyll, un generador de sitios web estáticos.
 6. [Dillinger.io](http://dillinger.io/): Open source, basado en web, libre de costo. Permite guardar y sincronizar documentos con Drive, Github, Dropbox y Medium.
 7. [Classeur.io](http://classeur.io/): Freemium online y desktop. De los creadores de Stackedit.
 
-Si sigues buscando verás que hay [muchas](https://www.slant.co/topics/899/~best-markdown-editor-for-os-x), muchsimas [más](https://speckyboy.com/markdown-tools-editors/) opciones. Prueba los que te parezcan hasta encontrar tu editor ideal. 
+Si sigues buscando verás que hay [muchas](https://www.slant.co/topics/899/~best-markdown-editor-for-os-x), muchsimas [más](https://speckyboy.com/markdown-tools-editors/) opciones. Prueba los que te parezcan hasta encontrar tu editor ideal.
 
 ¿Mencioné que puedes añadir [emojis](http://www.webpagefx.com/tools/emoji-cheat-sheet/) en algunas versiones extendidas de Markdown, como la que usa Github?
 
@@ -98,5 +98,7 @@ Si sigues buscando verás que hay [muchas](https://www.slant.co/topics/899/~best
  :clap:
  :rocket:
  :tada:
+
+Para finalizar, ya puedes leer este artículo en mi sitio web: [miguelpaz.info](http://miguelpaz.github.io/markdown-para-periodistas.html)
 
  [//]: # (Así es como escribes comentarios en tu Markdown para que no se vean en tu página web HTML.)
