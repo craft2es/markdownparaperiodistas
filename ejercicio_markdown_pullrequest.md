@@ -1,6 +1,6 @@
 # Ejercicio de escritura con Markdown, fork y pull request
 
-1. Hace fork al repositorio https://github.com/craft2es/markdownparaperiodistas, clonalo a tu computador y guárdalo en tu carpeta `repos`
+1. Hace fork al repositorio https://github.com/craft2es/markdownparaperiodistas, clonalo a tu computador y guardalo en tu carpeta `repos`
 2. Crea una copia de este documento y guarda el documento como "tunombreapellido-ejercicio.md"
 3. Ya en el documento "tunombreapellido-ejercicio.md", usa la sintaxis de Markdown para formatear el texto de abajo.
 4. Usando Github desktop hace commit y sync al repositorio online.
