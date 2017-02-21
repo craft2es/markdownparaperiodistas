@@ -70,7 +70,7 @@ Para más ejemplos y opciones avanzadas de sintaxis revisa:
 
 Mientras un editor de texto ofrece un modo sencillo y rápido de crear un documento `.md`, el beneficio real de utilizar Markdown es evidente cuando tienes que convertir el archivo a otro formato para publicación, como HTML (web), .PDF (libro) o un documento Word (para edición tradicional).
 
-Si eres periodista, como ya leíste, quizás tengas que escribir un artículo en Markdown, convertirlo a HTML y añadirle cascadas de estilos (CSS) y scripts de Javascript para la puesta en página web. O bien, tendrás que enviar el archivo `.md` a un editor, a un colega del área de gráficos interacivos o a un desarrollador web. Lo más probable es que todo lo anterior lo estarás haciendo dentro de un repositorio de Github al cual tu equipo y tú tienen acceso.
+Si eres periodista, como ya leíste, quizás tengas que escribir un artículo en Markdown, convertirlo a HTML y añadirle cascadas de estilos (CSS) y scripts de Javascript para la puesta en página web. O bien, tendrás que enviar el archivo `.md` a un editor, a un colega del área de gráficos interactivos o a un desarrollador web. Lo más probable es que todo lo anterior lo estarás haciendo dentro de un repositorio de Github al cual tu equipo y tú tienen acceso.
 
 Ya que ese es tu caso, te irá mucho mejor si escoges y utilizas uno de los muchos editores de Markdown existentes. Puedes buscar ["mejores editores de Markdown"](https://www.google.com/search?q=mejor+editor+de+markdown&ie=utf-8&oe=utf-8&client=firefox-b-ab) o [“best Markdown editors”](https://www.google.com/search?num=50&client=firefox-b-ab&q=%22best+markdown+editors%22&oq=%22best+markdown+editors%22&gs_l=serp.3..0l2j0i22i30k1l8.6222.10539.0.10858.7.7.0.0.0.0.79.391.6.6.0.foo%2Cewh%3D0%2Cnso-enksa%3D0%2Cnso-enfk%3D1%2Cnso-usnt%3D1%2Cnso-qnt-npqp%3D0-2%2Cnso-qnt-npdq%3D0-5%2Cnso-qnt-npt%3D0-13%2Cnso-qnt-ndc%3D300%2Ccspa-dspm-nm-mnp%3D0-065%2Ccspa-dspm-nm-mxp%3D0-1625%2Cnso-unt-npqp%3D0-2%2Cnso-unt-npdq%3D0-35%2Cnso-unt-npt%3D0-1%2Cnso-unt-ndc%3D300%2Ccspa-uipm-nm-mnp%3D0-0125%2Ccspa-uipm-nm-mxp%3D0-0875%2Ccfro%3D1%2Cewh%3D0%2Cnso-enksa%3D0%2Cnso-enfk%3D0...0...1.1.64.serp..1.6.390...0i67k1j0i7i30k1j0i13k1j0i30k1.4y9J40xDMGw) para descubrir el que satisfaga tus necesidades.
 
@@ -101,6 +101,6 @@ Si sigues buscando verás que hay [muchas](https://www.slant.co/topics/899/~best
 
 Para finalizar, realiza este [ejercicio de escritura con Markdown, fork y pull request](https://github.com/craft2es/markdownparaperiodistas/ejercicio_markdown_pullrequest.md).
 
-*Puedes leer este artículo en mi sitio web: [miguelpaz.info*](http://miguelpaz.github.io/markdown-para-periodistas.html)
+*Puedes leer este artículo en mi sitio web: [miguelpaz.info](http://miguelpaz.github.io/markdown-para-periodistas.html)*
 
  [//]: # (Así es como escribes comentarios en tu Markdown para que no se vean en tu página web HTML.)
