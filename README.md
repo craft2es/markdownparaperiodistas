@@ -1,6 +1,8 @@
 # ¿Qué es Markdown y por qué los periodistas lo usan?
 (Guía rápida)
 
+![Logo_Markdown_by_DCurtis](https://github.com/dcurtis/markdown-mark/blob/master/svg/markdown-mark-solid.svg)
+
 Markdown es ["una herramienta de conversión de texto a HTML para escritores web"](http://daringfireball.net/projects/markdown/), creada por John Gruber con el objetivo de ayudarte a concentrar en la escritura en vez de en el formateo del documento y lo qué sucede con dicho formato cuando exportas el documento a otro formato (un revoltijo).
 
 Esto significa que el documento de texto que escribes utilizando la sintaxis de Markdown se convierte a HTML (y puede ser exportado a otros formatos como .PDF y .Doc sin inconvenientes).
@@ -66,7 +68,7 @@ Para más ejemplos y opciones avanzadas de sintaxis revisa:
 - [Documentación oficial del creador de Markdown John Gruber (inglés)](https://daringfireball.net/projects/markdown/)
 - [Glosario y trucos de Markwdown (inglés)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Guía visual de Markdown y tutoriales (inglés)](http://commonmark.org/help/)
-- [Lista de variaciones de sintaxis de Markdown creadas por distintas organizaciones](https://github.com/jgm/CommonMark/wiki/Markdown-Flavors) 
+- [Lista de variaciones de sintaxis de Markdown creadas por distintas organizaciones](https://github.com/jgm/CommonMark/wiki/Markdown-Flavors)
 
 ## Elige y prueba un editor de Markdown
 
@@ -104,5 +106,8 @@ Si sigues buscando verás que hay [muchas](https://www.slant.co/topics/899/~best
 Para finalizar, realiza este [ejercicio de escritura con Markdown, fork y pull request](https://github.com/craft2es/markdownparaperiodistas/ejercicio_markdown_pullrequest.md).
 
 *Puedes leer este artículo en mi sitio web: [miguelpaz.info](http://miguelpaz.github.io/markdown-para-periodistas.html)*
+
+---
+*La guía [Markdown para periodistas](https://github.com/craft2es/markdownparaperiodistas) es parte de los materiales del curso Craft 2 del Programa Bilingüe de la Maestría de Periodismo de CUNY*
 
  [//]: # (Así es como escribes comentarios en tu Markdown para que no se vean en tu página web HTML.)
