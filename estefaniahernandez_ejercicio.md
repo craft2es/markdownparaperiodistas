@@ -17,9 +17,14 @@
 
 ## **Artículo para editar con Markdown**
 
-'Sam no es mi tío', libro hecho por 24 cronistas sobre EE. UU.
+**
 
-*El objetivo con el libro era responderse la pregunta de qué representa hoy ese país para los latinos.* 
+**Sam no es mi tío', libro hecho por 24 cronistas sobre EE. UU.**
+-------------------------------------------------------------
+
+**
+
+***El objetivo con el libro era responderse la pregunta de qué representa hoy ese país para los latinos.*** 
 
 Por:  **MARÍA PAULINA** ORTIZ. *2 de junio de 2012*. [Enlace al original](http://www.eltiempo.com/archivo/documento/CMS-11917603) 
 
