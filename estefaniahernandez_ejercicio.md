@@ -18,12 +18,15 @@
 ## **Artículo para editar con Markdown**
 
 'Sam no es mi tío', libro hecho por 24 cronistas sobre EE. UU.
-El objetivo con el libro era responderse la pregunta de qué representa hoy ese país para los latinos. Por:  **MARÍA PAULINA** ORTIZ. 2 de junio de 2012. [Enlace al original](http://www.eltiempo.com/archivo/documento/CMS-11917603) 
+
+*El objetivo con el libro era responderse la pregunta de qué representa hoy ese país para los latinos.* 
+
+Por:  **MARÍA PAULINA** ORTIZ. *2 de junio de 2012*. [Enlace al original](http://www.eltiempo.com/archivo/documento/CMS-11917603) 
 
 Este es un libro que nació a sabiendas de que sería un *"excelente fracaso"*.  Así lo describe Diego Fonseca, el autor argentino que tuvo la idea de hacerlo, que convocó al grupo de cronistas que lo escribieron, y que lo editó.
 
-> 'Sam no es mi tío' pretende narrar un país: Estados Unidos. Y sí: eso resulta difícil.
-> 
+'Sam no es mi tío' pretende narrar un país: Estados Unidos. Y sí: eso resulta difícil.
+
 > "No es posible entender una nación en su complejidad -dice Fonseca-. Y dadas las dimensiones continentales de Estados Unidos, aún más. Por eso, lo que ofrece es una especie de caleidoscopio, una suma de miradas sobre un país del que todos tenemos nuestra propia opinión".
 
 La idea de hacerlo nació cuando Fonseca acababa de llegar a Miami, desde México, recién casado y con un trabajo por estrenar. Iba a editar una revista. Pero la bienvenida que recibió fue la peor oleada de la crisis económica de la era Bush. Tan pronto llegó, la revista en la que iba a trabajar se declaró en quiebra.
