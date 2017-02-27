@@ -2,14 +2,6 @@
 
 *Parte de la guía [Markdown para periodistas](https://github.com/craft2es/markdownparaperiodistas)*
 
-
-1. Hace fork al repositorio https://github.com/craft2es/markdownparaperiodistas, clonalo a tu computador y guardalo en tu carpeta `repos`
-2. Crea una copia de este documento y guarda el documento como "tunombreapellido-ejercicio.md"
-3. Ya en el documento "tunombreapellido-ejercicio.md", usa la sintaxis de Markdown para formatear el texto de abajo.
-4. Usando Github desktop hace commit y sync al repositorio online.
-5. Anda al repositorio online y cliquea sobre el botón `New pull request`.
-6. Escribe en el campo de título: Ejercicio nombre y apellido; y en descripción: Incluí el documento "tunombreapellido-ejercicio.md" en este cambio.
-
 ----
 
 ## Artículo para editar con Markdown
