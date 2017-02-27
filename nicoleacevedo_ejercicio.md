@@ -1,9 +1,12 @@
 # Ejercicio de escritura con Markdown, fork y pull request
 
-*Parte de la guía [Markdown para periodistas](https://github.com/craft2es/markdownparaperiodistas)*
+*Por Nicole Acevedo y Miguel Paz*
 
 
-1. Hace fork al repositorio https://github.com/craft2es/markdownparaperiodistas, clonalo a tu computador y guardalo en tu carpeta `repos`
+####**Parte de la guía [Markdown para periodistas](https://github.com/craft2es/markdownparaperiodistas)**
+
+
+1. Hacer fork al repositorio [aquí](https://github.com/craft2es/markdownparaperiodistas), clónalo a tu computador y guardalo en tu carpeta `repos`.
 2. Crea una copia de este documento y guarda el documento como "tunombreapellido-ejercicio.md"
 3. Ya en el documento "tunombreapellido-ejercicio.md", usa la sintaxis de Markdown para formatear el texto de abajo.
 4. Usando Github desktop hace commit y sync al repositorio online.
@@ -12,16 +15,21 @@
 
 ----
 
-## Artículo para editar con Markdown
+##'Sam no es mi tío', libro hecho por 24 cronistas sobre EE. UU.
 
-'Sam no es mi tío', libro hecho por 24 cronistas sobre EE. UU.
-El objetivo con el libro era responderse la pregunta de qué representa hoy ese país para los latinos.Por:  MARÍA PAULINA ORTIZ. 2 de junio de 2012. Enlace al original: http://www.eltiempo.com/archivo/documento/CMS-11917603
+####El objetivo con el libro era responderse la pregunta de qué representa hoy ese país para los latinos.
+
+#####*Por MARÍA PAULINA ORTIZ*
+
+######*Publicado 2 de junio de 2012*
 
 Este es un libro que nació a sabiendas de que sería un "excelente fracaso". Así lo describe Diego Fonseca, el autor argentino que tuvo la idea de hacerlo, que convocó al grupo de cronistas que lo escribieron, y que lo editó.
 
 'Sam no es mi tío' pretende narrar un país: Estados Unidos. Y sí: eso resulta difícil.
 
-"No es posible entender una nación en su complejidad -dice Fonseca-. Y dadas las dimensiones continentales de Estados Unidos, aún más. Por eso, lo que ofrece es una especie de caleidoscopio, una suma de miradas sobre un país del que todos tenemos nuestra propia opinión".
+####***"No es posible entender una nación en su complejidad, dijo Fonseca.*** 
+
+"Y dadas las dimensiones continentales de Estados Unidos, aún más. Por eso, lo que ofrece es una especie de caleidoscopio, una suma de miradas sobre un país del que todos tenemos nuestra propia opinión" continuo diciendo Fonseca.
 
 La idea de hacerlo nació cuando Fonseca acababa de llegar a Miami, desde México, recién casado y con un trabajo por estrenar. Iba a editar una revista. Pero la bienvenida que recibió fue la peor oleada de la crisis económica de la era Bush. Tan pronto llegó, la revista en la que iba a trabajar se declaró en quiebra.
 
@@ -53,7 +61,9 @@ Al final de su viaje, la novelista recibió una postal de su amiga donde aparec�
 
 Las caras del triunfo. También las del fracaso. Todas se encuentran en estas páginas. La periodista Gabriela Esquivada cuenta la historia de la 'Gata', una cantante de tango argentina que entró como inmigrante ilegal por Río Grande. Su nombre es María Angélica Milán, tiene 84 años y pocos la oyen cantar. "¿Será el mundo? ¿Será que los Estados Unidos puede ser un lugar difícil para muchos?", se pregunta Esquivada.
 
-En este libro vive la frontera "como línea de sombra, como lugar común de nuestro tiempo, espacio por naturaleza conflictivo", según la describe el brasileño André de Leones. Está, también, la relación particular de los mexicanos con ese país, como "principales proveedores de inmigrantes en estos años".
+####***En este libro vive la frontera "como línea de sombra, como lugar común de nuestro tiempo, espacio por naturaleza conflictivo", según la describe el brasileño André de Leones.***
+
+ Está, también, la relación particular de los mexicanos con ese país, como "principales proveedores de inmigrantes en estos años".
 
 El autor mexicano Yuri Herrera (que vive en El Paso, Texas) describe una visión particular del 11 de septiembre: "Ese día me pareció que los gringos no solo estaban encabronados por el ataque, sino doblemente encabronados porque podía sentirse que, entre la mayoritaria población mexicana, no había rabia ni reaccionábamos como si eso hubiera sido la peor ignominia en la historia de la humanidad, porque no lo era".
 
@@ -64,4 +74,4 @@ El título apareció como un mensaje provocador y es una buena conclusión de la
 El Sam de la portada es real, un tipo llamado Jesús, un cubano que se pasea por las calles promoviendo a un abogado de impuestos de La Pequeña Habana, en Miami. Es, también, la representación de que hoy el sueño americano es otro. Tanto como otro es Estados Unidos. "Su hegemonía y su capacidad de ser referente están en entredicho -finaliza Fonseca-. Estados Unidos ha cometido suficientes errores como para que su credibilidad en la región se haya reducido". Tanto, que hoy son muchos los que piensan que Sam ya no es tío de nadie.
 
 MARÍA PAULINA ORTIZ
-Redacción EL TIEMPO
+Redacción original publicada en [EL TIEMPO](http://www.eltiempo.com/archivo/documento/CMS-11917603).
