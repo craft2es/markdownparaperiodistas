@@ -29,6 +29,9 @@ Fonseca pensó, entonces, en hacer lo que sabe: escribir. Hacer crónicas. Pero 
 
 "No buscaba repetir lugares comunes, como la inmigración ilegal o las críticas al 'Imperio' -explica-. Es muy fácil cargar a Estados Unidos por su rol de 'policía del resto del mundo'. Mi objetivo era otro: tratar de explicar las relaciones con este país desde dentro y desde fuera. Mirar las contradicciones internas de forma astuta. A partir de lo cotidiano, hablar de conflictos universales".
 
+*******
+
+
 Con este objetivo claro, Fonseca fue construyendo el libro junto a su coeditora, la brasileña Aileen El-Kadi, que trabaja en Estados Unidos como investigadora cultural y traductora literaria. Buscaron a los autores. Pretendían sumar personas que vivieran en Estados Unidos, que hubieran vivido y que nunca hubieran visitado ese país. Convocaron a escritores y periodistas de casi toda América Latina, entre quienes están Jorge Volpi, Santiago Roncagliolo, Daniel Alarcón, Claudia Piñeiro, Joaquín Botero y Juan Pablo Meneses. El único 'gringo' que aparece es el cronista de  The New Yorker , Jon Lee Anderson (que analiza el tema 'al revés').
 
  El objetivo era, por medio de la crónica, el testimonio o el ensayo, responderse la pregunta de qué representa hoy ese país para los latinos. "Todos hemos sido tocados directa o indirectamente por Estados Unidos. No hay modo de escapar a su imaginario".
@@ -39,11 +42,16 @@ A lo largo de las páginas de  Sam no es mi tío  aparecerán el impacto que sig
 
 El cronista peruano Daniel Alarcón describe a esa persona que llega sola a un territorio que le es inhóspito y desconocido: "Donde quiera que vayas en Estados Unidos, no importa cuán lejos vayas, verás el resto del mundo. Donde quiera que vayas, si observas, encontrarás un lugar al cual pertenecer. Este país es gigante. Cincuenta enormes, ridículamente desmedidos estados. Un país de esteroides, una nación multilingüe, multicultural narcotizada con dosis cuasi mortales de televisión y dulces y dinero y mantenida -apenas- por una gran, inextinguible esperanza".
 
+*******
+
 No hay un solo Estados Unidos. Como no hay una Colombia. La definición depende de dónde se pone el foco. Lo que aparece en  Sam no es mi tío  son múltiples miradas. Crónicas que narran casos particulares, historias que describen a miles de personas.
 
   Cuando el colombiano Joaquín Botero se graduó de periodista, decidió probar suerte en Estados Unidos. Durante un tiempo, trabajó en su campo de manera ilegal, hasta que la revista donde escribía lo despidió por no tener papeles. Ahora, trabaja en Murray's, donde corta y vende quesos. "Antes, sin papeles, no podía trabajar como periodista. Ahora, con ellos, encuentro que mi profesión casi ha desaparecido. ¿Algún día dejaré herrumbrar mis cuchillos en este país y será mi verbo el que tenga filo?", se pregunta en un texto que relata de qué forma, en un espacio como un local de quesos, se establecen relaciones de poder.
 
 - Fonseca narra la historia de Alberto, que llegó a Estados Unidos proveniente de Colombia, armó en Miami un negocio de venta de equipos de sonido, juntó dinero, pensó que estaba alcanzando el sueño, compró una casa más grande que la que necesitaba, se endeudó, y la crisis llegó y se llevó todo. Mientras se arruinaban, Alberto se disfrazaba en una vida diferente, de viajes y lujo, en su perfil de Facebook.
+
+*******
+
 
 - Sam no es mi tío  muestra también la fascinación que ese país genera. Ese sentido doble que acompaña siempre la idea de Estados Unidos. "Muy pocas naciones -agrega el editor- provocan esa sensación de 'te quiero y te odio', 'te adoro, pero te aporreo'".
 
