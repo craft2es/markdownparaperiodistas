@@ -6,8 +6,8 @@
 
 ## Artículo para editar con Markdown
 
-'Sam no es mi tío', libro hecho por 24 cronistas sobre EE. UU.
-El objetivo con el libro era responderse la pregunta de qué representa hoy ese país para los latinos.Por:  MARÍA PAULINA ORTIZ. 2 de junio de 2012. Enlace al original: http://www.eltiempo.com/archivo/documento/CMS-11917603
+#'Sam no es mi tío', libro hecho por 24 cronistas sobre EE. UU.#
+El objetivo con el libro era responderse la pregunta de qué representa hoy ese país para los latinos.Por: ** MARÍA PAULINA ORTIZ**. 2 de junio de 2012. Enlace al original: **http://www.eltiempo.com/archivo/documento/CMS-11917603**
 
 Este es un libro que nació a sabiendas de que sería un "excelente fracaso". Así lo describe Diego Fonseca, el autor argentino que tuvo la idea de hacerlo, que convocó al grupo de cronistas que lo escribieron, y que lo editó.
 
@@ -55,5 +55,5 @@ El título apareció como un mensaje provocador y es una buena conclusión de la
 
 El Sam de la portada es real, un tipo llamado Jesús, un cubano que se pasea por las calles promoviendo a un abogado de impuestos de La Pequeña Habana, en Miami. Es, también, la representación de que hoy el sueño americano es otro. Tanto como otro es Estados Unidos. "Su hegemonía y su capacidad de ser referente están en entredicho -finaliza Fonseca-. Estados Unidos ha cometido suficientes errores como para que su credibilidad en la región se haya reducido". Tanto, que hoy son muchos los que piensan que Sam ya no es tío de nadie.
 
-MARÍA PAULINA ORTIZ
+**MARÍA PAULINA ORTIZ**
 Redacción EL TIEMPO
