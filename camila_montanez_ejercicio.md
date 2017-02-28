@@ -1,13 +1,7 @@
-# Ejercicio de escritura con Markdown, fork y pull request
 
-*Parte de la guía [Markdown para periodistas](https://github.com/craft2es/markdownparaperiodistas)*
+#**'Sam no es mi tío', libro hecho por 24 cronistas sobre EE. UU.**
 
-----
-
-## Artículo para editar con Markdown
-
-#'Sam no es mi tío', libro hecho por 24 cronistas sobre EE. UU.#
-El objetivo con el libro era responderse la pregunta de qué representa hoy ese país para los latinos.Por: ** MARÍA PAULINA ORTIZ**. 2 de junio de 2012. Enlace al original: **http://www.eltiempo.com/archivo/documento/CMS-11917603**
+El objetivo con el libro era responderse la pregunta de qué representa hoy ese país para los latinos.Por: ** MARÍA PAULINA ORTIZ**. 2 de junio de 2012. [Enlace](http://www.eltiempo.com/archivo/documento/CMS-11917603)
 
 Este es un libro que nació a sabiendas de que sería un "excelente fracaso". Así lo describe Diego Fonseca, el autor argentino que tuvo la idea de hacerlo, que convocó al grupo de cronistas que lo escribieron, y que lo editó.
 
