@@ -12,9 +12,9 @@
 
 ----
 
-## Artículo para editar con Markdown
+### Artículo para editar con Markdown
 
-'Sam no es mi tío', libro hecho por 24 cronistas sobre EE. UU.
+*'Sam no es mi tío',* libro hecho por 24 cronistas sobre EE. UU.
 El objetivo con el libro era responderse la pregunta de qué representa hoy ese país para los latinos.Por:  MARÍA PAULINA ORTIZ. 2 de junio de 2012. Enlace al original: http://www.eltiempo.com/archivo/documento/CMS-11917603
 
 Este es un libro que nació a sabiendas de que sería un "excelente fracaso". Así lo describe Diego Fonseca, el autor argentino que tuvo la idea de hacerlo, que convocó al grupo de cronistas que lo escribieron, y que lo editó.
@@ -35,7 +35,7 @@ Con este objetivo claro, Fonseca fue construyendo el libro junto a su coeditora,
 
 A lo largo de las páginas de  Sam no es mi tío  aparecerán el impacto que significó el ataque contra las Torres Gemelas, el recrudecimiento de la xenofobia, la sensación de soledad, la falsa felicidad, la búsqueda de un lugar, el mito de un sueño americano visto desde ángulos trágicos o alegres, la forma diversa en que cada persona enfrenta ese país.
 
- "Concluí, entonces, que si quería seguir en territorio norteamericano, debía acoplarme al molde  yanqui  a cualquier precio y borrar, lo más rápido posible, todas toooooodas mis marcas latinas y semíticas", dice Aileen El Kadi en uno de los relatos incluidos.
+ ***"Concluí, entonces, que si quería seguir en territorio norteamericano, debía acoplarme al molde  yanqui  a cualquier precio y borrar, lo más rápido posible, todas toooooodas mis marcas latinas y semíticas", dice Aileen El Kadi en uno de los relatos incluidos.***
 
 El cronista peruano Daniel Alarcón describe a esa persona que llega sola a un territorio que le es inhóspito y desconocido: "Donde quiera que vayas en Estados Unidos, no importa cuán lejos vayas, verás el resto del mundo. Donde quiera que vayas, si observas, encontrarás un lugar al cual pertenecer. Este país es gigante. Cincuenta enormes, ridículamente desmedidos estados. Un país de esteroides, una nación multilingüe, multicultural narcotizada con dosis cuasi mortales de televisión y dulces y dinero y mantenida -apenas- por una gran, inextinguible esperanza".
 
@@ -43,11 +43,11 @@ No hay un solo Estados Unidos. Como no hay una Colombia. La definición depende 
 
   Cuando el colombiano Joaquín Botero se graduó de periodista, decidió probar suerte en Estados Unidos. Durante un tiempo, trabajó en su campo de manera ilegal, hasta que la revista donde escribía lo despidió por no tener papeles. Ahora, trabaja en Murray's, donde corta y vende quesos. "Antes, sin papeles, no podía trabajar como periodista. Ahora, con ellos, encuentro que mi profesión casi ha desaparecido. ¿Algún día dejaré herrumbrar mis cuchillos en este país y será mi verbo el que tenga filo?", se pregunta en un texto que relata de qué forma, en un espacio como un local de quesos, se establecen relaciones de poder.
 
-Fonseca narra la historia de Alberto, que llegó a Estados Unidos proveniente de Colombia, armó en Miami un negocio de venta de equipos de sonido, juntó dinero, pensó que estaba alcanzando el sueño, compró una casa más grande que la que necesitaba, se endeudó, y la crisis llegó y se llevó todo. Mientras se arruinaban, Alberto se disfrazaba en una vida diferente, de viajes y lujo, en su perfil de Facebook.
+- Fonseca narra la historia de Alberto, que llegó a Estados Unidos proveniente de Colombia, armó en Miami un negocio de venta de equipos de sonido, juntó dinero, pensó que estaba alcanzando el sueño, compró una casa más grande que la que necesitaba, se endeudó, y la crisis llegó y se llevó todo. Mientras se arruinaban, Alberto se disfrazaba en una vida diferente, de viajes y lujo, en su perfil de Facebook.
 
-Sam no es mi tío  muestra también la fascinación que ese país genera. Ese sentido doble que acompaña siempre la idea de Estados Unidos. "Muy pocas naciones -agrega el editor- provocan esa sensación de 'te quiero y te odio', 'te adoro, pero te aporreo'".
+- Sam no es mi tío  muestra también la fascinación que ese país genera. Ese sentido doble que acompaña siempre la idea de Estados Unidos. "Muy pocas naciones -agrega el editor- provocan esa sensación de 'te quiero y te odio', 'te adoro, pero te aporreo'".
 
-Claudia Piñeiro, novelista argentina, hace una crónica corta de un viaje suyo a Miami. Claudia iba a una conferencia, pero la invitación de una amiga la llevó a alquilar un carro y dirigirse hacia su casa. No llegó a la cita. Se perdió. "Confirmé que el Miami de muchos argentinos es una construcción teórica, una abstracción donde incluimos y excluimos los conceptos que se nos antojan", dice Piñeiro.
+- Claudia Piñeiro, novelista argentina, hace una crónica corta de un viaje suyo a Miami. Claudia iba a una conferencia, pero la invitación de una amiga la llevó a alquilar un carro y dirigirse hacia su casa. No llegó a la cita. Se perdió. "Confirmé que el Miami de muchos argentinos es una construcción teórica, una abstracción donde incluimos y excluimos los conceptos que se nos antojan", dice Piñeiro.
 
 Al final de su viaje, la novelista recibió una postal de su amiga donde aparecía un grupo brindando en su nombre. "Se les veía sonrientes, demasiado sonrientes (...). Empecé a sospechar que tal vez había sido mejor que no hubiese encontrado el camino. No sé si hubiera soportado tanta felicidad. No sé si ellos hubieran soportado que a mí me fuera bien en Argentina. Y quisiera volver", escribe Piñeiro.
 
